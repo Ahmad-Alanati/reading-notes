@@ -10,6 +10,9 @@ this read me is for summing up the course materials.
 
 ## Code 401 - Advanced Software Development
 
+## [reading Class 01](./class01.md)
+
+
 ## Get Started with Python
 the mats like start form [here](https://www.w3schools.com/python/python_syntax.asp#python_indentation)  and ends [here](https://www.w3schools.com/python/python_lambda.asp)
 
