@@ -14,10 +14,10 @@ this read me is for summing up the course materials.
 
 ### [reading Class 01](./class01.md)
 
-##class lab
+## class lab
 
 ### [lab Class 01](https://github.com/Ahmad-Alanati/snakes-cafe)
 
-##code challenges
+## code challenges
 
 ### [code challenge 01]()
