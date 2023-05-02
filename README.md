@@ -10,14 +10,14 @@ this read me is for summing up the course materials.
 
 ## Code 401 - Advanced Software Development
 
-## [reading Class 01](./class01.md)
+## classes reading
 
+### [reading Class 01](./class01.md)
 
-## Get Started with Python
-the mats like start form [here](https://www.w3schools.com/python/python_syntax.asp#python_indentation)  and ends [here](https://www.w3schools.com/python/python_lambda.asp)
+##class lab
 
-the things learnd
-1. python use Indentation to know the block of code
-2. the array have multiple types (list, set ,dictionaries, tuples)
-3. List Comprehension is an easy way to copy or copy and edit list
-4. you can make list with any datatype like js
+### [lab Class 01](https://github.com/Ahmad-Alanati/snakes-cafe)
+
+##code challenges
+
+### [code challenge 01]()
