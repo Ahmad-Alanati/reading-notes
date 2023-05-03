@@ -6,9 +6,10 @@
 
 ### [reading Class 01](./class01.md)
 
+### [reading Class 02](./class02.md)
+
 ### [Data Structures and Algorithms](./Data%20Structures%20and%20Algorithms.md)
 
-### [Data Structures and Algorithms](./Data Structures and Algorithms.md)
 
 ## class lab
 
