@@ -22,7 +22,7 @@ ex:
         
     intro()
 
-    second file:
+second file:
 
     if __name__ == "__main__":
         intro()
