@@ -8,6 +8,9 @@
 
 ### [reading Class 02](./class02.md)
 
+### [reading Class 03](./class03.md)
+
+
 ### [Data Structures and Algorithms](./Data%20Structures%20and%20Algorithms.md)
 
 ## class lab
