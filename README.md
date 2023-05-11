@@ -4,23 +4,23 @@
 
 ## classes reading
 
-### [reading Class 01](./class01.md)
+| topic       | link 
+| :---        |    :----:  
+| reading Class 01 | [link](./class01.md)
+| reading Class 02 | [link](./class02.md)
+| reading Class 03 | [link](./class03.md)
+| reading Class 04 | [link](./class04.md)
 
-### [reading Class 02](./class02.md)
+## Data Structures and Algorithms section
 
-### [reading Class 03](./class03.md)
-
-### [reading Class 04](./class04.md)
-
-
-### [Data Structures and Algorithms](./Data%20Structures%20and%20Algorithms.md)
+| topic       | link 
+| :---        |    :----:  
+| Data Structures and Algorithms | [link](./Data%20Structures%20and%20Algorithms.md)
+| reading linked list | [link](linked%20list.md)
 
 ## class lab
 
-### [lab Class 01](https://github.com/Ahmad-Alanati/snakes-cafe)
+| topic       | link 
+| :---        |    :----:  
+| lab Class 01 | [link](https://github.com/Ahmad-Alanati/snakes-cafe)
 
-
-
-## code challenges
-
-### [code challenge 01]()
