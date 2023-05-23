@@ -12,6 +12,7 @@
 | reading Class 04 | [link](./class04.md)
 | reading Class 06 | [link](./class06.md)
 | reading Class 07 | [link](./class07.md)
+| reading Class 09 | [link](./class09.md)
 
 ## Data Structures and Algorithms section
 
