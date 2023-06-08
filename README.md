@@ -25,6 +25,7 @@
 | Data Structures and Algorithms | [link](./Data%20Structures%20and%20Algorithms.md)
 | reading linked list | [link](linked%20list.md)
 | reading stacks and queues | [link](./stacks%20and%20queues.md)
+| reading trees | [link](./trees.md)
 
 ## class lab
 
