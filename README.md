@@ -19,6 +19,7 @@
 | reading Class 14 | [link](./class14.md)
 | reading Class 16 | [link](./class16.md)
 | reading Class 17 | [link](./class17.md)
+| reading Class 26 | [link](./class26.md)
 
 ## Data Structures and Algorithms section
 
