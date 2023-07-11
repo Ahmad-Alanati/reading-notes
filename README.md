@@ -20,6 +20,7 @@
 | reading Class 16 | [link](./class16.md)
 | reading Class 17 | [link](./class17.md)
 | reading Class 26 | [link](./class26.md)
+| reading Class 27 | [link](./class27.md)
 
 ## Data Structures and Algorithms section
 
