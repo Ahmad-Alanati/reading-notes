@@ -20,8 +20,14 @@ provide a high-level interface that allows you to define the structure of your d
     4. Inline editing and related objects management
     5. Customizable and extensible interface
     
-    
+
 3. Briefly outline the key components and workflow of a Django application, as discussed in the Beginner’s Guide to Django. How do these components interact with each other to create a functional web application?
+
+1. Models: it is responsible for the database interactions
+
+2. Views: handling the requests and logic for the web app
+
+3. templates: is the html that you are going to send after you change some data in it using the view
 
 
 
